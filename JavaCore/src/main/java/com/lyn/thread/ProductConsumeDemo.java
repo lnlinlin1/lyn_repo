@@ -43,7 +43,7 @@ public class ProductConsumeDemo {
 
 	public static void main(String[] args) throws Exception{
 		
-		 System.out.println("How to use wait and notify method in Java"); 
+		  System.out.println("How to use wait and notify method in Java"); 
 		  System.out.println("Solving Producer Consumper Problem"); 
 		  Queue<Integer> buffer = new LinkedList<Integer>();
 		  int maxSize = 10; 
